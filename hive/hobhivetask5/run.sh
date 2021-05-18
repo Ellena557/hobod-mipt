@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+# type your code here...
+hive -f hivetask5.hql
