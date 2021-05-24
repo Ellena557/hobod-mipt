@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+# type your code here...
+spark2-submit task4-1-final.py
